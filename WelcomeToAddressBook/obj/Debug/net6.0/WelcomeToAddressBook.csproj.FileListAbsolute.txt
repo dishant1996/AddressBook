@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\classwork\Address book\Welcome display\WelcomeToAddressBook\WelcomeToAddressBook\bin\Debug\net6.0\WelcomeToAddressBook.exe
+C:\Users\Admin\Desktop\classwork\Address book\Welcome display\WelcomeToAddressBook\WelcomeToAddressBook\bin\Debug\net6.0\WelcomeToAddressBook.deps.json
+C:\Users\Admin\Desktop\classwork\Address book\Welcome display\WelcomeToAddressBook\WelcomeToAddressBook\bin\Debug\net6.0\WelcomeToAddressBook.runtimeconfig.json
+C:\Users\Admin\Desktop\classwork\Address book\Welcome display\WelcomeToAddressBook\WelcomeToAddressBook\bin\Debug\net6.0\WelcomeToAddressBook.dll
+C:\Users\Admin\Desktop\classwork\Address book\Welcome display\WelcomeToAddressBook\WelcomeToAddressBook\bin\Debug\net6.0\WelcomeToAddressBook.pdb
+C:\Users\Admin\Desktop\classwork\Address book\Welcome display\WelcomeToAddressBook\WelcomeToAddressBook\obj\Debug\net6.0\WelcomeToAddressBook.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\classwork\Address book\Welcome display\WelcomeToAddressBook\WelcomeToAddressBook\obj\Debug\net6.0\WelcomeToAddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\classwork\Address book\Welcome display\WelcomeToAddressBook\WelcomeToAddressBook\obj\Debug\net6.0\WelcomeToAddressBook.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\classwork\Address book\Welcome display\WelcomeToAddressBook\WelcomeToAddressBook\obj\Debug\net6.0\WelcomeToAddressBook.AssemblyInfo.cs
+C:\Users\Admin\Desktop\classwork\Address book\Welcome display\WelcomeToAddressBook\WelcomeToAddressBook\obj\Debug\net6.0\WelcomeToAddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\classwork\Address book\Welcome display\WelcomeToAddressBook\WelcomeToAddressBook\obj\Debug\net6.0\WelcomeToAddressBook.dll
+C:\Users\Admin\Desktop\classwork\Address book\Welcome display\WelcomeToAddressBook\WelcomeToAddressBook\obj\Debug\net6.0\refint\WelcomeToAddressBook.dll
+C:\Users\Admin\Desktop\classwork\Address book\Welcome display\WelcomeToAddressBook\WelcomeToAddressBook\obj\Debug\net6.0\WelcomeToAddressBook.pdb
+C:\Users\Admin\Desktop\classwork\Address book\Welcome display\WelcomeToAddressBook\WelcomeToAddressBook\obj\Debug\net6.0\WelcomeToAddressBook.genruntimeconfig.cache
+C:\Users\Admin\Desktop\classwork\Address book\Welcome display\WelcomeToAddressBook\WelcomeToAddressBook\obj\Debug\net6.0\ref\WelcomeToAddressBook.dll
