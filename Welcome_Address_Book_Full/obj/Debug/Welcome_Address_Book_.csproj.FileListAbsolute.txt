@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\Welcome_Address_Book_\obj\Debug\Welcome_Address_Book_.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\Welcome_Address_Book_\obj\Debug\Welcome_Address_Book_.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\Welcome_Address_Book_\obj\Debug\Welcome_Address_Book_.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\Welcome_Address_Book_\bin\Debug\Welcome_Address_Book_.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\Welcome_Address_Book_\bin\Debug\Welcome_Address_Book_.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\Welcome_Address_Book_\bin\Debug\Welcome_Address_Book_.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\Welcome_Address_Book_\obj\Debug\Welcome_Address_Book_.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\Welcome_Address_Book_\obj\Debug\Welcome_Address_Book_.pdb
