@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC4-Remove_Contact_\obj\Debug\UC4-Remove_Contact_.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC4-Remove_Contact_\obj\Debug\UC4-Remove_Contact_.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC4-Remove_Contact_\obj\Debug\UC4-Remove_Contact_.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC4-Remove_Contact_\bin\Debug\UC4-Remove_Contact_.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC4-Remove_Contact_\bin\Debug\UC4-Remove_Contact_.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC4-Remove_Contact_\bin\Debug\UC4-Remove_Contact_.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC4-Remove_Contact_\obj\Debug\UC4-Remove_Contact_.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC4-Remove_Contact_\obj\Debug\UC4-Remove_Contact_.pdb
